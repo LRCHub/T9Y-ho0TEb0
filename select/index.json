@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "永遠のブルー",
+  "base_artist": "羊文学",
+  "createdAt": "2026-03-14T13:58:42.347869Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "永遠のブルー",
+      "artist": "Hitsujibungaku",
+      "has_synced": false,
+      "path": "select/01_永遠のブルー_Hitsujibungaku.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "永遠のブルー",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/02_永遠のブルー_羊文学.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "永遠のブルー",
+      "artist": "Hitsuji Bungaku",
+      "has_synced": true,
+      "path": "select/03_永遠のブルー_Hitsuji_Bungaku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "永遠のブルー (Tour 2023 “if i were an angel,”)",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/04_永遠のブルー_(Tour_2023_“if_i_were_an_angel,”)_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "永遠のブルー",
+      "artist": "摩天楼オペラ",
+      "has_synced": false,
+      "path": "select/05_永遠のブルー_摩天楼オペラ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "永遠のブルー",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_01_永遠のブルー_羊文学.txt"
+    }
+  ]
+}
